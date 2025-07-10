@@ -5,7 +5,7 @@
       "site" : "github",
       "subrepo" : "PrimitiveTeam/SPIRV-Tools",
       "subdir" : "External/spirv-tools",
-      "commit": "44c93ad9-with-xcode-fix"
+      "commit": "2a3e19b56275741465d08ee73dbc93d539da787c"
     },
     {
       "name" : "spirv-tools/external/spirv-headers",

@@ -2,22 +2,22 @@
   "commits" : [
     {
       "name" : "spirv-tools",
-      "site" : "gitlab",
-      "subrepo" : "spirv/spirv-tools",
+      "site" : "github",
+      "subrepo" : "PrimitiveTeam/SPIRV-Tools",
       "subdir" : "External/spirv-tools",
-      "commit" : "d4e2c2eaa6fd2e9f9cd218ea9add9b0c8ae759ba"
+      "commit": "44c93ad924b647b0d803ef4c924251c4341b838b"
     },
     {
       "name" : "spirv-tools/external/spirv-headers",
-      "site" : "gitlab",
-      "subrepo" : "spirv/SPIRV-Headers",
+      "site" : "github",
+      "subrepo" : "PrimitiveTeam/SPIRV-Headers",
       "subdir" : "External/spirv-tools/external/spirv-headers",
-      "commit" : "gitlab-prelim-rc4"
+      "commit" : "2a611a970fdbc41ac2e3e328802aed9985352dca"
     },
     {
       "name": "googletest",
       "site": "github",
-      "subrepo": "google/googletest",
+      "subrepo": "PrimitiveTeam/googletest",
       "subdir": "External/googletest",
       "commit": "v1.14.0"
     }
